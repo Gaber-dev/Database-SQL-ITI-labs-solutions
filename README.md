@@ -7,11 +7,7 @@ This repository contains my lab solutions and practical implementations for the 
 
 ## Table of Contents
 - [Course Structure](#course-structure)
-- [Lab Solutions](#lab-solutions)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Key Concepts Covered](#key-concepts-covered)
-- [Usage](#usage)
 - [License](#license)
 
 ## Course Structure
