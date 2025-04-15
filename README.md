@@ -31,28 +31,6 @@ The course is divided into 10 days of intensive database training:
 | ⑨ | Stored Procedures, Triggers, XML Handling |
 | ⑩ | Backup/Restore, Mirroring, Cursors, Jobs, SQL CLR |
 
-## Lab Solutions
-
-The repository is organized by day with corresponding solutions:
-/Database-Labs
-│
-├── Day1-ERD/
-│ ├── Entity_Relationship_Diagram.vsd
-│ └── Design_Documentation.md
-│
-├── Day2-Schema-Mapping/
-│ ├── Database_Schema.sql
-│ └── Table_Creation_Queries.sql
-│
-├── Day3-Normalization/
-│ ├── Normalization_Process.docx
-│ └── Normalized_Tables.sql
-│
-├── ... (other day folders)
-│
-└── README.md
-
-Copy
 
 ## Technologies Used
 
@@ -62,46 +40,6 @@ Copy
 - Visual Studio (for SQL CLR)
 - Database Diagram Tools (ERD/EERD)
 
-
-
-Key Concepts Covered
-Database Design
-Entity-Relationship Diagrams (ERD/EERD)
-
-Database normalization (1NF to 3NF)
-
-Schema design and mapping
-
-SQL Programming
-DDL, DML, DCL commands
-
-Complex queries with joins and subqueries
-
-Aggregate functions and grouping
-
-Stored procedures and functions
-
-Advanced Topics
-Database constraints and rules
-
-Index optimization
-
-Transaction control
-
-XML handling in SQL Server
-
-Database administration (backup/restore, mirroring)
-
-Usage
-These lab solutions can be used as:
-
-Reference for database course students
-
-Practical examples of T-SQL implementation
-
-Study material for SQL Server certification
-
-Foundation for real-world database projects
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
