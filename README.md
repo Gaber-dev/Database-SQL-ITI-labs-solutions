@@ -62,16 +62,7 @@ Copy
 - Visual Studio (for SQL CLR)
 - Database Diagram Tools (ERD/EERD)
 
-## Setup Instructions
 
-To run these lab solutions:
-
-1. Install [SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-2. Install [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-3. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Database-Labs.git
-Open the SQL files in SSMS and execute against your local SQL Server instance
 
 Key Concepts Covered
 Database Design
@@ -115,20 +106,3 @@ Foundation for real-world database projects
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Copy
-
-This README provides:
-
-1. Clear structure matching your course days
-2. Visual badges for SQL Server
-3. Organized directory structure preview
-4. Setup instructions for others to use your solutions
-5. Comprehensive list of covered concepts
-6. Professional formatting with markdown
-
-You can enhance it further by:
-- Adding screenshots of important database diagrams
-- Including sample query outputs
-- Adding a "How to Contribute" section
-- Linking to additional learning resources
-- Including your personal notes/insights for each day
