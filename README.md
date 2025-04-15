@@ -8,7 +8,6 @@ This repository contains my lab solutions and practical implementations for the 
 ## Table of Contents
 - [Course Structure](#course-structure)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Course Structure
 
@@ -37,6 +36,4 @@ The course is divided into 10 days of intensive database training:
 - Database Diagram Tools (ERD/EERD)
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
